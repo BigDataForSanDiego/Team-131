@@ -4,7 +4,7 @@
 
 #### Team Name: `MeDev`    
   
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 ##### `Introducing an AI-driven feedback system which automatically transcribes voice notes, employs ML algorithms to summarize content, and intelligently categorizes feedback`
 
 
