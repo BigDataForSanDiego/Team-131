@@ -2,10 +2,10 @@
 
 #### Team Number: `131`  
 
-#### Team Name: `meDev`    
+#### Team Name: `MeDev`    
   
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `Introducing an AI-driven feedback system which automatically transcribes voice notes, employs ML algorithms to summarize content, and intelligently categorizes feedback`
 
 
 #### A visual
