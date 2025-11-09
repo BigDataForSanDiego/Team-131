@@ -12,9 +12,13 @@
 ##### `We are designing an app to put federal and sttate resources for the unsheltered in one convenient place`
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
+![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025
+")
+<img width="367" height="351" alt="image" src="https://github.com/user-attachments/assets/1228427b-ca26-4b8f-9761-3e114560cad5" />
+<img width="308" height="692" alt="image" src="https://github.com/user-attachments/assets/2e0bd380-f5f5-40df-8e58-8dd2e7f97c0e" />
+<img width="318" height="693" alt="image" src="https://github.com/user-attachments/assets/a190bea1-8e71-4198-9f8a-bc8212bfced9" />
 
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+
 
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
